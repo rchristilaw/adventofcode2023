@@ -43,7 +43,7 @@ public class Day01 extends BaseDay {
             log.info(num);
             sum += Integer.parseInt(num);
         }
-        
+
         log.info("Part 1 solution: {}", sum);
 
 
